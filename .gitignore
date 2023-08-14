@@ -1,2 +1,63 @@
 /.idea/
 /test-output/
+/target/classes/com/step_it/driver/CustomWebDriverManager.class
+/target/classes/com/step_it/driver/EventListener.class
+/target/classes/com/step_it/driver/Listener.class
+/target/classes/com/step_it/pages/BasePage.class
+/target/classes/com/step_it/pages/LoginPage.class
+/target/classes/com/step_it/pages/MainPage.class
+/target/classes/com/step_it/pages/ProductPage.class
+/target/classes/com/step_it/utils/PageLoader.class
+/target/classes/com/step_it/utils/PropertyReader.class
+/target/classes/org/example/Main.class
+/target/classes/config.properties
+/target/classes/logback.xml
+/target/maven-archiver/pom.properties
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/target/surefire-reports/Command line suite/Command line test.html
+/target/surefire-reports/Command line suite/Command line test.xml
+/target/surefire-reports/old/Command line suite/classes.html
+/target/surefire-reports/old/Command line suite/Command line test.properties
+/target/surefire-reports/old/Command line suite/groups.html
+/target/surefire-reports/old/Command line suite/index.html
+/target/surefire-reports/old/Command line suite/main.html
+/target/surefire-reports/old/Command line suite/methods.html
+/target/surefire-reports/old/Command line suite/methods-alphabetical.html
+/target/surefire-reports/old/Command line suite/methods-not-run.html
+/target/surefire-reports/old/Command line suite/reporter-output.html
+/target/surefire-reports/old/Command line suite/testng.xml.html
+/target/surefire-reports/old/Command line suite/toc.html
+/target/surefire-reports/old/index.html
+/target/surefire-reports/bullet_point.png
+/target/surefire-reports/collapseall.gif
+/target/surefire-reports/emailable-report.html
+/target/surefire-reports/failed.png
+/target/surefire-reports/index.html
+/target/surefire-reports/jquery-3.6.0.min.js
+/target/surefire-reports/navigator-bullet.png
+/target/surefire-reports/passed.png
+/target/surefire-reports/skipped.png
+/target/surefire-reports/TEST-TestSuite.xml
+/target/surefire-reports/testng.css
+/target/surefire-reports/testng-reports.css
+/target/surefire-reports/testng-reports.js
+/target/surefire-reports/testng-reports1.css
+/target/surefire-reports/testng-reports2.js
+/target/surefire-reports/testng-results.xml
+/target/surefire-reports/TestSuite.txt
+/target/test-classes/com/step_it/hooks/TestHook.class
+/target/test-classes/com/step_it/runner/JUnitRunTest.class
+/target/test-classes/com/step_it/step_definitions/CommonDefinitions.class
+/target/test-classes/com/step_it/step_definitions/LoginDefinitions.class
+/target/test-classes/com/step_it/step_definitions/ProductDefinitions.class
+/target/test-classes/com/step_it/steps/CommonSteps.class
+/target/test-classes/com/step_it/steps/LoginSteps.class
+/target/test-classes/com/step_it/steps/ProductSteps.class
+/target/test-classes/features/checkout/Checkout.feature
+/target/test-classes/features/login/Login.feature
+/target/test-classes/extent.properties
+/target/test-classes/extent-config.xml
+/target/Start_Cucumber-1.0-SNAPSHOT.jar

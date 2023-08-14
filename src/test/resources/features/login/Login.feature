@@ -11,7 +11,7 @@ Feature: Login with valid credentials & log out
 
     Examples:
       | username | password |
-      | standar_user | secret_sauce |
+      | standard_user | secret_sauce |
       | problem_user | secret_sauce |
 
 

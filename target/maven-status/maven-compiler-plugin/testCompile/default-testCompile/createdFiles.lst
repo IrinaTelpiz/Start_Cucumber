@@ -1,0 +1,8 @@
+com\step_it\steps\ProductSteps.class
+com\step_it\steps\LoginSteps.class
+com\step_it\step_definitions\CommonDefinitions.class
+com\step_it\runner\JUnitRunTest.class
+com\step_it\step_definitions\ProductDefinitions.class
+com\step_it\hooks\TestHook.class
+com\step_it\steps\CommonSteps.class
+com\step_it\step_definitions\LoginDefinitions.class

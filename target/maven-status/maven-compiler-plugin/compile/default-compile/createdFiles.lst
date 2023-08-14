@@ -1,0 +1,10 @@
+com\step_it\utils\PropertyReader.class
+com\step_it\driver\CustomWebDriverManager.class
+com\step_it\driver\EventListener.class
+org\example\Main.class
+com\step_it\pages\MainPage.class
+com\step_it\pages\LoginPage.class
+com\step_it\pages\ProductPage.class
+com\step_it\utils\PageLoader.class
+com\step_it\driver\Listener.class
+com\step_it\pages\BasePage.class
